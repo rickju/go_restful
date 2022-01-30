@@ -3,7 +3,7 @@ package main
 import "testing"
 import "fmt"
 
-func TestVend(_t *testing.T) {
+func TestVen(_t *testing.T) {
 	//
 	store := get_store()
 
